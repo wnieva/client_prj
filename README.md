@@ -13,7 +13,9 @@
 
 ## Pre-requisitos 📋
 
-- Aquí colocamos los pre-requisitos.
+Desbes tener instalado los siguientes aplicativos para el desarrollo del proyecto.
+
+- [Python](https://www.python.org)
 
 ## Instrucciones de instalación 🔧
 
